@@ -7,7 +7,7 @@ Web & Mobile Development
 I've been learning to code for 4 years until now and was worked 2 years at software development corporation
 
 *   🌍  I'm based in Central Java, Kudus Regency
-*   🖥️  See my portfolio at [Portofolio](http://youtube.com)
+*   🖥️  See my portfolio at [Portfolio](http://youtube.com)
 *   ✉️  You can contact me at Social Media
 *   🚀  I'm currently working on [PT. Lokajaya Surya Mahardika](http://lokajaya-sm.co.id)
 *   🧠  I'm learning Flutter and React js
